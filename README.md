@@ -11,3 +11,7 @@ A security tool for file encryption/decryption, designed to demonstrate cryptogr
 ## Usage
 - **Encrypt**: `python main.py encrypt <file> <output.enc>`
 - **Decrypt**: `python main.py decrypt <output.enc> <output.txt>`
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
